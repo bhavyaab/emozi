@@ -1,1 +1,2 @@
 # emozi
+This is a simple app to apply Microsoft Emotion API to detect emotion on an image.  The api returns numerical scores for eight facial expressions:  anger, contempt, disgust, fear, joy, neutral, sadness and surprise.  The absolute raw scores representing facial expression are then visualized with doughnut chart of Chart.js data visualization library. This app can add a layer of intelligence to user interactions: police and soldiers with civilians, doctors with patients, merchants with customers.
